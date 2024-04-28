@@ -32,7 +32,7 @@ CityHall.ProgressBar = {
 CityHall.Zones = {
     ['City Hall'] = { -- Name Blip
         -- Position 
-        Pos = vec4(-261.5454, -965.2300, 30.2241, 117.1752),--vec4(-550.8719, -190.2443, 36.7226, 178.2979),
+        Pos = vec4(-234.5742, -922.5255, 31.3121, 339.2216),--vec4(-550.8719, -190.2443, 36.7226, 178.2979),
         -- NPC Options
         NPC = true,                    -- Activar/desactivar NPC
         Hash = 'cs_debra',             -- Hash NPC 
