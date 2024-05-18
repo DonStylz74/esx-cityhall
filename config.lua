@@ -32,11 +32,11 @@ CityHall.ProgressBar = {
 CityHall.Zones = {
     ['City Hall'] = { -- Name Blip
         -- Position 
-        Pos = vec4(-234.5742, -922.5255, 31.3121, 339.2216),--vec4(-550.8719, -190.2443, 36.7226, 178.2979),
+        Pos = vec4(-233.3425, -922.8464, 31.3121, 349.9702),--vec4(-550.8719, -190.2443, 36.7226, 178.2979),
         -- NPC Options
         NPC = true,                    -- Activar/desactivar NPC
-        Hash = 'cs_debra',             -- Hash NPC 
-        Scenario = false,              -- Scenario NPC
+        Hash = 'cs_bankman',             -- Hash NPC 
+        Scenario = 'WORLD_HUMAN_CLIPBOARD_FACILITY',              -- Scenario NPC
         -- Blip
         Blip = true,           -- Activar/desactivar blip
         Sprite = 407,          -- Blip sprite
